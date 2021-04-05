@@ -4,6 +4,8 @@ Beginner Python Project to make a randomized text-rpg dungeon with combat system
 I started learning Python as my first programming language about a month ago as of the first version of this program. 
 Please provide any feedback you can about the project, mainly in terms of code structure, functions, etc. but game mechanic feedback and the like are also appreciated.
 
+Run the file from main.py and make sure the rest of the files are in the same folder you're running it from.
+
 Typing 'help' when starting the game should give you a detailed description of each action you can take and the syntax you should follow when typing it out. 
 There are different actions you can take while in combat and in shops, so type 'help' in there as well to learn about those specific actions.
 

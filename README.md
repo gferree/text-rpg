@@ -8,31 +8,10 @@ Typing 'help' when starting the game should give you a detailed description of e
 There are different actions you can take while in combat and in shops, so type 'help' in there as well to learn about those specific actions.
 
 Also, in case on first playthrough the map is a little hard to understand, here is a legend with a sample map below:
+
 Player Icon - *
+
 Dead Ends - <, >, ∨, ∧
+
 And lines show which passages you can travel through, eg. ┗ shows you can travel through the north and east passage, ╋ shows you can travel through all passages, etc.
 
-(When running the program it looks much less spread out than this, I just don't know how to get the text wrapping right in Github. Look at this in raw view to get a better idea of the normal map layout.)
-
-┏ ┓   ┏ ┳ ┓ ┏ ┓ ┏ ┳ >
-
-┣ ┛   ┗ ┛ ┣ ┫ ┃ ┗ ╋ > 
-
-┣ ━ > ∧   ┗ ╋ ╋ ━ ┛   
-
-┃     ┗ ┓ ┏ ╋ ┻ ┳ ━ > 
-
-┣ ┓ < ━ ┻ ╋ ┻ ━ ╋ ━ > 
-
-┣ ┛   ┏ ┳ * ┓   ┣ ━ > 
-
-∨     ┣ ┫ ┣ ┛ ┏ ┛     
-
-   ∧ ┗ ┻ ┛   ∨ ┏ > ∧ 
-    
-┏ ━ ╋ ━ ┳ ┓ ┏ ┳ ╋ ━ ┫ 
-
-┗ ┳ ┛ ┏ ┫ ∨ ┗ ╋ ┫   ┃ 
-
-  ∨   ┗ ┻ ━ > ┗ ┻ > ∨ 
-  

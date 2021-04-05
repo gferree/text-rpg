@@ -28,7 +28,7 @@ And lines show which passages you can travel through, eg. ┗ shows you can trav
 
 ∨     ┣ ┫ ┣ ┛ ┏ ┛     
 
-    ∧ ┗ ┻ ┛   ∨ ┏ > ∧ 
+   ∧ ┗ ┻ ┛   ∨ ┏ > ∧ 
     
 ┏ ━ ╋ ━ ┳ ┓ ┏ ┳ ╋ ━ ┫ 
 

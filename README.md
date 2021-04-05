@@ -12,6 +12,7 @@ Dead Ends - <, >, ∨, ∧
 And lines show which passages you can travel through, eg. ┗ shows you can travel through the north and east passage, ╋ shows you can travel through all passages, etc.
 
 ┏ ┓   ┏ ┳ ┓ ┏ ┓ ┏ ┳ > 
+
 ┣ ┛   ┗ ┛ ┣ ┫ ┃ ┗ ╋ > 
 ┣ ━ > ∧   ┗ ╋ ╋ ━ ┛   
 ┃     ┗ ┓ ┏ ╋ ┻ ┳ ━ > 

@@ -12,7 +12,8 @@ Player Icon - *
 Dead Ends - <, >, ∨, ∧
 And lines show which passages you can travel through, eg. ┗ shows you can travel through the north and east passage, ╋ shows you can travel through all passages, etc.
 
-(When running the program it looks much less spread out than this, I just don't know how to get the text wrapping right in Github)
+(When running the program it looks much less spread out than this, I just don't know how to get the text wrapping right in Github. Look at this in raw view to get a better idea of the normal map layout.)
+
 ┏ ┓   ┏ ┳ ┓ ┏ ┓ ┏ ┳ >
 
 ┣ ┛   ┗ ┛ ┣ ┫ ┃ ┗ ╋ > 
